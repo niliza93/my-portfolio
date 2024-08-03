@@ -64,9 +64,13 @@ form .btn {
   background-color: #dae1e7;
 }
 
-#contact {
+#webtools {
   background-color: #dae1e7;
 }
+
+/*#contact {
+  background-color: #dae1e7;
+}*/
 
 #form {
   background-color: #11bfae;
@@ -80,7 +84,7 @@ form .btn {
 
 
 #endpart {
-  background-color: #dae1e7;
+  background-color: ;
   height: 20px;
 }
 
